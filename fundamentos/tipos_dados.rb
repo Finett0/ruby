@@ -1,21 +1,13 @@
-puts "Olá".class
-
 puts 1.class
 
-puts 10.5.class
+puts 4.5.class
 
-range = 1..10
+puts 'Giovanni'.class
 
-puts range.class
+puts true.class
 
-range.each do |item|
-    puts item
-end
+puts false.class
 
-puts range.include?15
+v1 = 54 #Não é necessario declarar o tipo da variavel, o ruby faz a inferencia
 
-dicionario = {name: "Giovanni", "age" => 32}
-
-array = [1,2,3,4,5]
-
-puts array.class
+puts v1
