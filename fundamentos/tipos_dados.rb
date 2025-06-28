@@ -8,6 +8,6 @@ puts true.class
 
 puts false.class
 
-v1 = 54 #Não é necessario declarar o tipo da variavel, o ruby faz a inferencia
+v1 = 54 #Não é necessario declarar o tipo da variavel, o ruby faz a infêrencia
 
 puts v1
