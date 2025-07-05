@@ -20,3 +20,5 @@ puts soma1.somar(10,20)
 
 soma2 = CalculadoraFashion.new
 puts soma2.somar(5,10)
+
+
