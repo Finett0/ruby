@@ -5,7 +5,7 @@ class Pessoa
    def initialize(nome,idade)
     @nome = nome
     @idade = idade
-   end
+   enda
 
     def apresentar()
        puts "Olá, me chamo #{nome} tenho #{idade} anos"
@@ -17,3 +17,4 @@ puts pessoa1.nome
 puts pessoa1.idade
 
 
+ 
